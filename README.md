@@ -1,8 +1,3 @@
-# skyline
-Docker Skyline on Centos7
-
-
-Usage:
 
 ## Dockerfile for Skyline on centos7
 
